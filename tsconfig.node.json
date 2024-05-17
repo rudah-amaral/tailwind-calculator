@@ -12,6 +12,7 @@
     ".eslintrc.cjs",
     "postcss.config.js",
     "tailwind.config.js",
-    "vite.config.ts"
+    "vite.config.ts",
+    "lint-staged.config.js"
   ]
 }
